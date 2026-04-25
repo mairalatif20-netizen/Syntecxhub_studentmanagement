@@ -39,15 +39,7 @@ Object-Oriented Programming (Classes & Methods)
 
 
 📖 Purpose
-This project demonstrates the use of file I/O and OOP concepts in Python while building a practical and easy-to-use management system.
-
-⚠️ Note
-When running in online compilers (like Programiz), file data may not persist permanently due to environment limitations.
-
-If you want, I can also:
-
-
-make a short version (for GitHub quick view)
+This project demonstrates the use of file I/O and OOP concepts in Python while building a practical and easy-to-use management system
 
 
 or a more professional version (for LinkedIn upload)
