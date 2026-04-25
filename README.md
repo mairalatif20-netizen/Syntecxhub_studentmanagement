@@ -42,5 +42,5 @@ Object-Oriented Programming (Classes & Methods)
 This project demonstrates the use of file I/O and OOP concepts in Python while building a practical and easy-to-use management system
 
 
-or a more professional version (for LinkedIn upload)
+
 
